@@ -27,26 +27,6 @@ Any code change should be submitted as a pull request. The description should
 explain what the code does and give steps to execute it. The pull request should
 also contain tests.
 
-### Big changes
-
-We really want your help! We know how much work a pull request requires. Your time
-and effort is important to us, so 🙏 remember the following:
-
-> **tldr;** Please discuss large changes in an issue before you submit a pull
-> request.
-
-When someone makes a big pull request without checking with the maintainers of
-the project, it can create an awkward situation if the change is not welcomed by
-the project maintainers. Remember, the maintainers are the people 😅 who have to
-live and work with any changes to the code.
-
-Please discuss large changes such as API, tooling, or coding style in an issue
-before you submit a pull request. Wait until an organization maintainer approves
-👍 the general idea and approach before you make your pull request.
-
-Major changes that you have not discussed with us first are not likely to
-merged. 😢
-
 ## Code review process
 
 The bigger the pull request, the longer it will take to review and merge. Try to
@@ -60,3 +40,25 @@ description of your pull request or of a specific commit will automatically
 close this issue once the pull request is merged.
 
 <!-- This `CONTRIBUTING.md` is based on @nayafia's template https://github.com/nayafia/contributing-template -->
+
+### Major changes
+
+We really want your help! We know how much work a pull request requires. Your
+time and effort is important to us, so 🙏 remember the following:
+
+> Be sure to discuss large changes by opening an issue before you submit a pull
+> request.
+
+When someone makes a big pull request without checking with the maintainers of a
+project, it can be awkward 😬 if the changes are not welcomed by the project
+maintainers.
+
+We know pull requests take time and effort. Please remember that the maintainers
+are the people 😅 who have to live and work with any changes to the project.
+
+Please discuss large changes such as API, tooling, or coding style in an issue
+before you submit a pull request. Wait until an organization maintainer approves
+👍 the general idea and approach before you make your pull request.
+
+> MAJOR changes that you have not discussed with us first are not likely to
+> merged. 😢

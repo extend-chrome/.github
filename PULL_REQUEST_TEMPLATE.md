@@ -1,19 +1,25 @@
 <!--
-  ⚡️ katchow! We ❤️ Pull Requests!
+  We ❤️ Pull Requests!
 
-  If you remove or skip this template, you'll make the 🐼 sad and the mighty god
-  of Github will appear and pile-drive the close button from a great height
-  while making animal noises.
+  Thanks for putting in the work to contribute to this project.
 
   Pull Request Requirements:
   * Please include tests to illustrate the problem this PR resolves.
-  * Please lint your changes by running `npm run lint` before creating a PR.
-  * Please update the documentation in `/docs` where necessary
+  * Please run prettier and eslint.
+  * Please update the documentation where necessary.
 
   Please place an x (no spaces - [x]) in all [ ] that apply.
 -->
 
+Community guidelines:
+
+- [ ] I have read and understand the
+      [contributing guidelines](https://github.com/extend-chrome/.github/blob/master/CONTRIBUTING.md)
+      and
+      [code of conduct](https://github.com/extend-chrome/.github/blob/master/CODE_OF_CONDUCT.md)
+
 This PR contains:
+
 - [ ] bugfix
 - [ ] feature
 - [ ] refactor
@@ -21,11 +27,13 @@ This PR contains:
 - [ ] other
 
 Are tests included?
-- [ ] yes (*bugfixes and features will not be merged without tests*)
+
+- [ ] yes (_bugfixes and features will not be merged without tests_)
 - [ ] no
 
 Breaking Changes?
-- [ ] yes (*breaking changes will not be merged unless absolutely necessary*)
+
+- [ ] yes (_breaking changes will not be merged unless absolutely necessary_)
 - [ ] no
 
 List any relevant issue numbers:
