@@ -14,27 +14,27 @@
 Community guidelines:
 
 - [ ] I have read and understand the
-      [contributing guidelines](https://github.com/extend-chrome/.github/blob/master/CONTRIBUTING.md)
+      [contributing guidelines](https://github.com/extend-chrome/.github/blob/master/.github/CONTRIBUTING.md)
       and
-      [code of conduct](https://github.com/extend-chrome/.github/blob/master/CODE_OF_CONDUCT.md)
+      [code of conduct](https://github.com/extend-chrome/.github/blob/master/.github/CODE_OF_CONDUCT.md)
 
 This PR contains:
 
 - [ ] bugfix
 - [ ] feature
 - [ ] refactor
-- [ ] documentation
+- [x] documentation
 - [ ] other
 
 Are tests included?
 
 - [ ] yes (_bugfixes and features will not be merged without tests_)
-- [ ] no
+- [x] no
 
 Breaking Changes?
 
 - [ ] yes (_breaking changes will not be merged unless absolutely necessary_)
-- [ ] no
+- [x] no
 
 List any relevant issue numbers:
 
