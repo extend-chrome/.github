@@ -23,18 +23,18 @@ This PR contains:
 - [ ] bugfix
 - [ ] feature
 - [ ] refactor
-- [x] documentation
+- [ ] documentation
 - [ ] other
 
 Are tests included?
 
 - [ ] yes (_bugfixes and features will not be merged without tests_)
-- [x] no
+- [ ] no
 
 Breaking Changes?
 
 - [ ] yes (_breaking changes will not be merged unless absolutely necessary_)
-- [x] no
+- [ ] no
 
 List any relevant issue numbers:
 
