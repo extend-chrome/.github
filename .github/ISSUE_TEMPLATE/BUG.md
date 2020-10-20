@@ -26,10 +26,11 @@ about: Create a report to help us improve
 ### How do we reproduce?
 
 <!--
-  Issues without minimal reproductions will be closed! Please provide one by:
-  1. Work to isolate the problem and provide the exact steps in this issue, or
-  2. Provide a minimal repository link (Read https://git.io/fNzHA for instructions).
-     These may take more time to triage than the other options.
+  Issues without minimal reproductions will be closed!
+
+  Please do one of the following to demonstrate the problem:
+  1. Submit a draft PR with a test case (this would be great 😍) or,
+  2. Provide a link to a minimal reproduction repository (
 -->
 
 ### Expected behavior
